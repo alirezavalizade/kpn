@@ -1,5 +1,10 @@
 # KPN SHOP
 
+Simplified KPN Shop page + filter feature.
+Note: I directly calling live api using proxies.
+
+Thanks for reviewing! :)
+
 ## Tech stack
 
 ### Vue 3 (composition api)
